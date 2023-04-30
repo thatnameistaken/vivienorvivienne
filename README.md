@@ -9,3 +9,4 @@ and then upload a file. The results are in percentages.
 # Training data????
 Go to the vivien folder and download the .tm file and rename as zip
 extract and find the photos
+(help upload some here) https://forms.gle/gxdwDgbAuYnnVZi6A
