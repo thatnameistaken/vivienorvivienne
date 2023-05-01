@@ -8,5 +8,7 @@ Go to https://teachablemachine.withgoogle.com/models/ULr44R5DD/ and change webca
 and then upload a file. The results are in percentages.
 # Training data????
 Go to the vivien folder and download the .tm file and rename as zip
-extract and find the photos
-(help upload some here) https://forms.gle/gxdwDgbAuYnnVZi6A
+extract and find the photos 
+# Want more people in the database
+add them here (adding clarus and clarice next)
+https://forms.gle/gxdwDgbAuYnnVZi6A
